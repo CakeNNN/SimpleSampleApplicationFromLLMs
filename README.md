@@ -1,7 +1,8 @@
 # SimpleSampleApplicationFromLLMs  
 ## これは何か？  
 LLM(EdgeのCopilotなのでGPT-4)にプロンプトから生成してもらった簡単なゲームっぽいアプリケーションのコードです。 
-
+[元ツイート](https://x.com/CakeTwt/status/1865420281084620880)  
+  
 ## 実行するには？  
 ①python(3.8で確認)の使える環境にてpygameをインストールします。 
 <pre>
